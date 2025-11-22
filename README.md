@@ -13,6 +13,8 @@ hi there! 👋
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
 ## About
 
@@ -29,6 +31,8 @@ A WordPress plugin repository for custom solutions.
 - **Elementor** - Page builder for WordPress
 - **Linux** - Operating system
 - **macOS** - Operating system
+- **jQuery** - JavaScript library
+- **AI** - Artificial Intelligence
 
 ## Installation
 
