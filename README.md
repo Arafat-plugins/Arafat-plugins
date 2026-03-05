@@ -15,6 +15,11 @@ hi there! 👋
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-2D2D2D?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-8A2AF3?style=for-the-badge&logo=n8n&logoColor=white)
+![localhost](https://img.shields.io/badge/localhost-4CAF50?style=for-the-badge&logoColor=white)
+![MCP%20Server](https://img.shields.io/badge/MCP%20Server-FF9800?style=for-the-badge&logoColor=white)
+![VPS%20Server%20Expert](https://img.shields.io/badge/VPS%20Server%20Expert-2196F3?style=for-the-badge&logoColor=white)
 
 ## About
 
@@ -33,6 +38,11 @@ A WordPress plugin repository for custom solutions.
 - **macOS** - Operating system
 - **jQuery** - JavaScript library
 - **AI** - Artificial Intelligence
+- **OpenClaw** - Custom automation and integration tooling
+- **n8n** - Workflow automation platform
+- **localhost** - Local development and testing environment
+- **MCP server** - Managed context protocol server integrations
+- **VPS server expert** - Virtual private server deployment and management
 
 ## Installation
 
