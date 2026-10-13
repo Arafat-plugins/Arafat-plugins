@@ -36,6 +36,44 @@
   </tr>
 </table>
 
+<br/>
+
+### ✦ Professional Journey ✦
+
+<a href="#"><img src="https://img.shields.io/badge/900%2B-Website%20Issues%20Fixed-0D1117?style=for-the-badge&labelColor=A78BFA&logo=wordpress&logoColor=white" alt="900+ Website Issues Fixed" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ERP-Built%20from%20Scratch-0D1117?style=for-the-badge&labelColor=A24689&logo=odoo&logoColor=white" alt="ERP Built from Scratch" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PDF-Generator%20Creator-0D1117?style=for-the-badge&labelColor=EC1C24&logo=files&logoColor=white" alt="PDF Generator Creator" /></a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="640">
+      <h3>🚀 GoodTechies &nbsp;<sub><code>Current</code></sub></h3>
+      <b>🏢 Custom ERP — built end to end</b><br/>
+      An all-in-one company workspace where every part of the business is handled in one place:
+      <br/><br/>
+      💬 <b>Messenger</b> — real-time team chat<br/>
+      🎥 <b>Meetings</b> — schedule and run team meetings<br/>
+      🎙️ <b>Voice Messages</b> — record and send voice notes<br/>
+      🕒 <b>Attendance</b> — daily attendance tracking<br/>
+      🤝 <b>Clients</b> — client records and communication<br/>
+      📁 <b>Projects</b> — full project management<br/>
+      ✅ <b>Tasks</b> — assign, track and complete tasks
+      <br/><br/>
+      <b>📄 PDF Generator</b> — custom PDF generation tool built in-house
+    </td>
+  </tr>
+  <tr>
+    <td width="640">
+      <h3>🛠️ Sovware</h3>
+      🔧 <b>900+ website issues fixed</b> — bugs, conflicts, layout and performance problems on live client sites<br/>
+      🌐 <b>WPML</b> — multilingual WordPress sites, translation setup and compatibility fixes<br/>
+      📒 <b>Directorist</b> — core plugin, <b>extensions</b> and <b>themes</b>: development, customization and support
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2" width="100%" alt="" />
@@ -54,6 +92,9 @@ hi there! 👋
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WPML](https://img.shields.io/badge/WPML%20Multilingual-1B6AC9?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Directorist](https://img.shields.io/badge/Directorist-6E3CE0?style=for-the-badge&logo=wordpress&logoColor=white)
+![PDF%20Generator](https://img.shields.io/badge/PDF%20Generator-EC1C24?style=for-the-badge&logo=files&logoColor=white)
 ![WordPress%20Debugger](https://img.shields.io/badge/WordPress%20Debugger-1E88E5?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -70,13 +111,15 @@ hi there! 👋
 
 ## About
 
-A WordPress plugin repository for custom solutions.
+Full stack developer and LLM engineer currently working at **GoodTechies**, where I built a complete company **ERP** (messenger, meetings, voice messages, attendance, clients, projects and tasks) and a custom **PDF generator**.
+
+Previously at **Sovware**, I fixed **900+ website issues** and worked across **WPML** multilingual sites and the **Directorist** plugin, its extensions and themes.
 
 ## Technologies Used
 
 - **PHP** - Server-side scripting language
 - **LLM** - Large language model engineering — building and training models from scratch (Andrej Karpathy's *Zero to Hero*)
-- **ERP** - Enterprise resource planning systems — custom modules, workflows and business automation
+- **ERP** - Built a full company ERP: messenger, meetings, voice messages, attendance, clients, projects and tasks
 - **Android apps** - Native and cross-platform Android application development
 - **Full stack web developer** - End-to-end web apps, from database and APIs to frontend UI
 - **MySQL** - Relational database management system
@@ -84,6 +127,9 @@ A WordPress plugin repository for custom solutions.
 - **CSS3** - Styling language
 - **HTML5** - Markup language
 - **WordPress** - Content management system
+- **WPML** - Multilingual WordPress sites, translation setup and compatibility fixes
+- **Directorist** - Directory plugin development, including its extensions and themes
+- **PDF generator** - Custom PDF generation tooling
 - **WordPress debugger** - Troubleshooting WordPress issues and tracking down plugin or theme conflicts
 - **Elementor** - Page builder for WordPress
 - **Linux** - Operating system
