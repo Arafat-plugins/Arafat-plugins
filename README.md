@@ -1,10 +1,16 @@
 <div align="center">
 
+<img src="assets/vintage/banner-core.svg" width="100%" alt="§ I — Core Expertise" />
+
+<img src="assets/vintage/stamps-core.svg" width="100%" alt="LLM Engineer · Full Stack Web Developer · Automation Software Creator · ERP Developer · Android App Developer" />
+
+<br/>
+
 <img src="assets/vintage/hero.svg" width="100%" alt="The Arafat Express — LLM Engineer · Full Stack Web Developer · ERP &amp; Android App Developer · Automation Software Creator · Claude &amp; Codex Expert · Vibe Coding Expert" />
 
 <br/>
 
-<img src="assets/vintage/banner-about.svg" width="100%" alt="§ I — About the Author" />
+<img src="assets/vintage/banner-about.svg" width="100%" alt="§ II — About the Author" />
 
 <br/>
 
@@ -15,12 +21,6 @@
 <p>
 <i>Previously at</i> <b>Sovware</b>: <b>900+ website issues fixed</b>, <i>working as a</i> <b>directory website</b>, <b>WooCommerce</b>, <b>Shopify</b> <i>and</i> <b>Laravel</b> <i>site expert.</i>
 </p>
-
-<br/>
-
-<img src="assets/vintage/banner-core.svg" width="100%" alt="§ II — Core Expertise" />
-
-<img src="assets/vintage/stamps-core.svg" width="100%" alt="LLM Engineer · Full Stack Web Developer · Automation Software Creator · ERP Developer · Android App Developer" />
 
 <br/>
 
