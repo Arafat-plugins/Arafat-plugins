@@ -4,32 +4,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Arafat&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=LLM%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Automation%20Software%20Creator&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Arafat" />
 
 <a href="https://github.com/Arafat-plugins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=LLM+Engineer+%F0%9F%A7%A0;Full+Stack+Web+Developer+%E2%9A%A1;ERP+%26+Android+App+Developer+%F0%9F%93%B1;Automation+Software+Creator+%E2%9A%99%EF%B8%8F;Claude+%E2%80%A2+Codex+%E2%80%A2+Vibe+Coding+Expert+%F0%9F%9A%80" alt="Typing roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=LLM+Engineer;Full+Stack+Web+Developer;ERP+%26+Android+App+Developer;Automation+Software+Creator;Claude+%C2%B7+Codex+%C2%B7+Vibe+Coding+Expert" alt="Typing roles" />
 </a>
 
 <br/><br/>
 
-### ✦ Core Expertise ✦
+<h3><img src="assets/icons/cpu.svg" width="20" height="20" alt="" />&nbsp; Core Expertise</h3>
 
-<a href="#"><img src="https://img.shields.io/badge/LLM%20Engineer-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="LLM Engineer" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Full%20Stack%20Web%20Developer-0D1117?style=for-the-badge&logo=stackblitz&logoColor=58A6FF" alt="Full Stack Web Developer" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Automation%20Software%20Creator-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="Automation Software Creator" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LLM%20Engineer-1C2333?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="LLM Engineer" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Full%20Stack%20Web%20Developer-1C2333?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzU4QTZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi44MyAyLjE4YTIgMiAwIDAgMC0xLjY2IDBMMi42IDYuMDhhMSAxIDAgMCAwIDAgMS44M2w4LjU4IDMuOTFhMiAyIDAgMCAwIDEuNjYgMGw4LjU4LTMuOWExIDEgMCAwIDAgMC0xLjgzeiIvPjxwYXRoIGQ9Ik0yIDEyYTEgMSAwIDAgMCAuNTguOTFsOC42IDMuOTFhMiAyIDAgMCAwIDEuNjUgMGw4LjU4LTMuOUExIDEgMCAwIDAgMjIgMTIiLz48cGF0aCBkPSJNMiAxN2ExIDEgMCAwIDAgLjU4LjkxbDguNiAzLjkxYTIgMiAwIDAgMCAxLjY1IDBsOC41OC0zLjlBMSAxIDAgMCAwIDIyIDE3Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Full Stack Web Developer" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Automation%20Software%20Creator-1C2333?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzJERDRCRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8%2BPHBhdGggZD0iTTcgMTF2NGEyIDIgMCAwIDAgMiAyaDQiLz48cmVjdCB3aWR0aD0iOCIgaGVpZ2h0PSI4IiB4PSIxMyIgeT0iMTMiIHJ4PSIyIi8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Automation Software Creator" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/ERP%20Developer-0D1117?style=for-the-badge&logo=odoo&logoColor=A24689" alt="ERP Developer" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Android%20Apps-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android Apps" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ERP%20Developer-1C2333?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0MwODRGQyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCAxMmg0bS00LTRoNG0wIDEzdi0zYTIgMiAwIDAgMC00IDB2MyIvPjxwYXRoIGQ9Ik02IDEwSDRhMiAyIDAgMCAwLTIgMnY3YTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY5YTIgMiAwIDAgMC0yLTJoLTIiLz48cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="ERP Developer" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Android%20Apps-1C2333?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android Apps" /></a>
 
-### ✦ AI-Assisted Engineering ✦
+<h3><img src="assets/icons/bot.svg" width="20" height="20" alt="" />&nbsp; AI-Assisted Engineering</h3>
 
-<a href="#"><img src="https://img.shields.io/badge/Claude%20Expert-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Expert" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Codex%20Expert-0D1117?style=for-the-badge&logo=gnubash&logoColor=10A37F" alt="Codex Expert" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Vibe%20Coding%20Expert-0D1117?style=for-the-badge&logo=sparkfun&logoColor=F5C542" alt="Vibe Coding Expert" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Claude%20Expert-1C2333?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Expert" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Codex%20Expert-1C2333?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yMi4yODIgOS44MjFhNiA2IDAgMCAwLS41MTYtNC45MWE2LjA1IDYuMDUgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE2IDYgMCAwIDAtMy45OTggMi45YTYuMDUgNi4wNSAwIDAgMCAuNzQzIDcuMDk3YTUuOTggNS45OCAwIDAgMCAuNTEgNC45MTFhNi4wNSA2LjA1IDAgMCAwIDYuNTE1IDIuOUE2IDYgMCAwIDAgMTMuMjYgMjRhNi4wNiA2LjA2IDAgMCAwIDUuNzcyLTQuMjA2YTYgNiAwIDAgMCAzLjk5Ny0yLjlhNi4wNiA2LjA2IDAgMCAwLS43NDctNy4wNzNNMTMuMjYgMjIuNDNhNC40OCA0LjQ4IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxbDQuNzc5LTIuNzU4YS44LjggMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNy4wNyAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NE0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1bDQuNzgzIDIuNzU5YS43Ny43NyAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZNMi4zNCA3Ljg5NmE0LjUgNC41IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc3Ljc3IDAgMCAwIC4zODguNjc3bDUuODE1IDMuMzU0bC0yLjAyIDEuMTY4YS4wOC4wOCAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wOC4wOCAwIDAgMSAuMDcxIDBsNC44MyAyLjc5MWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA1di01LjY3OGEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3bTIuMDEtMy4wMjNsLS4xNDEtLjA4NWwtNC43NzQtMi43ODJhLjc4Ljc4IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIzVjYuODk3YS4wNy4wNyAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS44LjggMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNWwyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNWwtMi42MDctMS41WiIvPjwvc3ZnPg%3D%3D" alt="Codex Expert" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Vibe%20Coding%20Expert-1C2333?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Y1QzU0MiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMS4wMTcgMi44MTRhMSAxIDAgMCAxIDEuOTY2IDBsMS4wNTEgNS41NThhMiAyIDAgMCAwIDEuNTk0IDEuNTk0bDUuNTU4IDEuMDUxYTEgMSAwIDAgMSAwIDEuOTY2bC01LjU1OCAxLjA1MWEyIDIgMCAwIDAtMS41OTQgMS41OTRsLTEuMDUxIDUuNTU4YTEgMSAwIDAgMS0xLjk2NiAwbC0xLjA1MS01LjU1OGEyIDIgMCAwIDAtMS41OTQtMS41OTRsLTUuNTU4LTEuMDUxYTEgMSAwIDAgMSAwLTEuOTY2bDUuNTU4LTEuMDUxYTIgMiAwIDAgMCAxLjU5NC0xLjU5NHpNMjAgMnY0bTItMmgtNCIvPjxjaXJjbGUgY3g9IjQiIGN5PSIyMCIgcj0iMiIvPjwvZz48L3N2Zz4%3D" alt="Vibe Coding Expert" /></a>
 
 <br/>
 
 <table>
   <tr>
     <td align="center" width="640">
-      🎓 <b>Currently learning</b><br/>
+      <img src="assets/icons/graduation-cap.svg" width="20" height="20" alt="" />&nbsp; <b>Currently learning</b><br/>
       <a href="https://karpathy.ai/zero-to-hero.html"><b>Neural Networks: Zero to Hero</b></a> by Andrej Karpathy<br/>
       <sub>Building LLMs from scratch — backprop, makemore, GPT, tokenizers</sub>
     </td>
@@ -38,38 +38,44 @@
 
 <br/>
 
-### ✦ Professional Journey ✦
+<h3><img src="assets/icons/briefcase.svg" width="20" height="20" alt="" />&nbsp; Professional Journey</h3>
 
-<a href="#"><img src="https://img.shields.io/badge/900%2B-Website%20Issues%20Fixed-0D1117?style=for-the-badge&labelColor=A78BFA&logo=wordpress&logoColor=white" alt="900+ Website Issues Fixed" /></a>
-<a href="#"><img src="https://img.shields.io/badge/ERP-Built%20from%20Scratch-0D1117?style=for-the-badge&labelColor=A24689&logo=odoo&logoColor=white" alt="ERP Built from Scratch" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PDF-Generator%20Creator-0D1117?style=for-the-badge&labelColor=EC1C24&logo=files&logoColor=white" alt="PDF Generator Creator" /></a>
+<a href="#"><img src="https://img.shields.io/badge/900%2B-Website%20Issues%20Fixed-1C2333?style=for-the-badge&labelColor=7C3AED&logo=wordpress&logoColor=white" alt="900+ Website Issues Fixed" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ERP-Built%20from%20Scratch-1C2333?style=for-the-badge&labelColor=7C3AED&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCAxMmg0bS00LTRoNG0wIDEzdi0zYTIgMiAwIDAgMC00IDB2MyIvPjxwYXRoIGQ9Ik02IDEwSDRhMiAyIDAgMCAwLTIgMnY3YTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY5YTIgMiAwIDAgMC0yLTJoLTIiLz48cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="ERP Built from Scratch" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PDF-Generator%20Creator-1C2333?style=for-the-badge&labelColor=DC2626&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik02IDIyYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDhhMi40IDIuNCAwIDAgMSAxLjcwNC43MDZsMy41ODggMy41ODhBMi40IDIuNCAwIDAgMSAyMCA4djEyYTIgMiAwIDAgMS0yIDJ6Ii8%2BPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDVNMTAgOUg4bTggNEg4bTggNEg4Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="PDF Generator Creator" /></a>
 
 <br/><br/>
 
 <table>
   <tr>
-    <td width="640">
-      <h3>🚀 GoodTechies &nbsp;<sub><code>Current</code></sub></h3>
-      <b>🏢 Custom ERP — built end to end</b><br/>
-      An all-in-one company workspace where every part of the business is handled in one place:
+    <td width="72" align="center" valign="top">
+      <a href="https://goodtechies.com"><img src="assets/logos/goodtechies.png" width="52" height="52" alt="GoodTechies" /></a>
+    </td>
+    <td width="568" valign="top">
+      <h3>GoodTechies &nbsp;<sub><code>Current</code></sub></h3>
+      <img src="assets/icons/building-2.svg" width="16" height="16" alt="" />&nbsp; <b>Custom ERP — built end to end</b><br/>
+      <sub>An all-in-one company workspace where every part of the business is handled in one place.</sub>
       <br/><br/>
-      💬 <b>Messenger</b> — real-time team chat<br/>
-      🎥 <b>Meetings</b> — schedule and run team meetings<br/>
-      🎙️ <b>Voice Messages</b> — record and send voice notes<br/>
-      🕒 <b>Attendance</b> — daily attendance tracking<br/>
-      🤝 <b>Clients</b> — client records and communication<br/>
-      📁 <b>Projects</b> — full project management<br/>
-      ✅ <b>Tasks</b> — assign, track and complete tasks
+      <img src="assets/icons/message-square.svg" width="16" height="16" alt="" />&nbsp; <b>Messenger</b> — real-time team chat<br/>
+      <img src="assets/icons/video.svg" width="16" height="16" alt="" />&nbsp; <b>Meetings</b> — schedule and run team meetings<br/>
+      <img src="assets/icons/mic.svg" width="16" height="16" alt="" />&nbsp; <b>Voice Messages</b> — record and send voice notes<br/>
+      <img src="assets/icons/calendar-check.svg" width="16" height="16" alt="" />&nbsp; <b>Attendance</b> — daily attendance tracking<br/>
+      <img src="assets/icons/users.svg" width="16" height="16" alt="" />&nbsp; <b>Clients</b> — client records and communication<br/>
+      <img src="assets/icons/folder-kanban.svg" width="16" height="16" alt="" />&nbsp; <b>Projects</b> — full project management<br/>
+      <img src="assets/icons/list-checks.svg" width="16" height="16" alt="" />&nbsp; <b>Tasks</b> — assign, track and complete tasks
       <br/><br/>
-      <b>📄 PDF Generator</b> — custom PDF generation tool built in-house
+      <img src="assets/icons/file-text.svg" width="16" height="16" alt="" />&nbsp; <b>PDF Generator</b> — custom PDF generation tool built in-house
     </td>
   </tr>
   <tr>
-    <td width="640">
-      <h3>🛠️ Sovware</h3>
-      🔧 <b>900+ website issues fixed</b> — bugs, conflicts, layout and performance problems on live client sites<br/>
-      🌐 <b>WPML</b> — multilingual WordPress sites, translation setup and compatibility fixes<br/>
-      📒 <b>Directorist</b> — core plugin, <b>extensions</b> and <b>themes</b>: development, customization and support
+    <td width="72" align="center" valign="top">
+      <a href="https://sovware.com"><img src="assets/logos/sovware.png" width="52" height="52" alt="Sovware" /></a>
+    </td>
+    <td width="568" valign="top">
+      <h3>Sovware</h3>
+      <img src="assets/icons/wrench.svg" width="16" height="16" alt="" />&nbsp; <b>900+ website issues fixed</b> — bugs, conflicts, layout and performance problems on live client sites<br/>
+      <img src="assets/logos/wpml.png" width="16" height="16" alt="" />&nbsp; <b>WPML</b> — multilingual WordPress sites, translation setup and compatibility fixes<br/>
+      <img src="assets/logos/directorist.png" width="16" height="16" alt="" />&nbsp; <b>Directorist</b> — core plugin, <b>extensions</b> and <b>themes</b>: development, customization and support
     </td>
   </tr>
 </table>
@@ -78,15 +84,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=2" width="100%" alt="" />
 
-hi there! 👋
-
 ## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-7C3AED?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCAxMmg0bS00LTRoNG0wIDEzdi0zYTIgMiAwIDAgMC00IDB2MyIvPjxwYXRoIGQ9Ik02IDEwSDRhMiAyIDAgMCAwLTIgMnY3YTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY5YTIgMiAwIDAgMC0yLTJoLTIiLz48cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2Ii8%2BPC9nPjwvc3ZnPg%3D%3D)
 ![Android%20Apps](https://img.shields.io/badge/Android%20Apps-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Full%20Stack%20Web%20Developer](https://img.shields.io/badge/Full%20Stack%20Web%20Developer-1F6FEB?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Full%20Stack%20Web%20Developer](https://img.shields.io/badge/Full%20Stack%20Web%20Developer-1F6FEB?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi44MyAyLjE4YTIgMiAwIDAgMC0xLjY2IDBMMi42IDYuMDhhMSAxIDAgMCAwIDAgMS44M2w4LjU4IDMuOTFhMiAyIDAgMCAwIDEuNjYgMGw4LjU4LTMuOWExIDEgMCAwIDAgMC0xLjgzeiIvPjxwYXRoIGQ9Ik0yIDEyYTEgMSAwIDAgMCAuNTguOTFsOC42IDMuOTFhMiAyIDAgMCAwIDEuNjUgMGw4LjU4LTMuOUExIDEgMCAwIDAgMjIgMTIiLz48cGF0aCBkPSJNMiAxN2ExIDEgMCAwIDAgLjU4LjkxbDguNiAzLjkxYTIgMiAwIDAgMCAxLjY1IDBsOC41OC0zLjlBMSAxIDAgMCAwIDIyIDE3Ii8%2BPC9nPjwvc3ZnPg%3D%3D)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,7 +98,7 @@ hi there! 👋
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WPML](https://img.shields.io/badge/WPML%20Multilingual-1B6AC9?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Directorist](https://img.shields.io/badge/Directorist-6E3CE0?style=for-the-badge&logo=wordpress&logoColor=white)
-![PDF%20Generator](https://img.shields.io/badge/PDF%20Generator-EC1C24?style=for-the-badge&logo=files&logoColor=white)
+![PDF%20Generator](https://img.shields.io/badge/PDF%20Generator-DC2626?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRkZGRiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik02IDIyYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDhhMi40IDIuNCAwIDAgMSAxLjcwNC43MDZsMy41ODggMy41ODhBMi40IDIuNCAwIDAgMSAyMCA4djEyYTIgMiAwIDAgMS0yIDJ6Ii8%2BPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDVNMTAgOUg4bTggNEg4bTggNEg4Ii8%2BPC9nPjwvc3ZnPg%3D%3D)
 ![WordPress%20Debugger](https://img.shields.io/badge/WordPress%20Debugger-1E88E5?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
