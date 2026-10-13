@@ -2,7 +2,7 @@
 
 <img src="assets/vintage/hero.svg" width="100%" alt="The Arafat Express — LLM Engineer · Full Stack Web Developer · ERP &amp; Android App Developer · Automation Software Creator · Claude &amp; Codex Expert · Vibe Coding Expert" />
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-about.svg" width="100%" alt="§ I — About the Author" />
 
@@ -13,38 +13,36 @@
 </p>
 
 <p>
-<i>Previously at</i> <b>Sovware</b>: <b>900+ website issues fixed</b>, <i>multilingual sites with</i> <b>WPML</b>, <i>and the</i> <b>Directorist</b> <i>plugin, its extensions and themes.</i>
+<i>Previously at</i> <b>Sovware</b>: <b>900+ website issues fixed</b>, <i>working as a</i> <b>directory website</b>, <b>WooCommerce</b>, <b>Shopify</b> <i>and</i> <b>Laravel</b> <i>site expert.</i>
 </p>
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-core.svg" width="100%" alt="§ II — Core Expertise" />
 
 <img src="assets/vintage/stamps-core.svg" width="100%" alt="LLM Engineer · Full Stack Web Developer · Automation Software Creator · ERP Developer · Android App Developer" />
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-ai.svg" width="100%" alt="§ III — AI-Assisted Engineering" />
 
 <img src="assets/vintage/stamps-ai.svg" width="100%" alt="Claude Expert · Codex Expert · Vibe Coding Expert" />
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-learning.svg" width="100%" alt="§ IV — Currently Learning" />
 
 <a href="https://karpathy.ai/zero-to-hero.html"><img src="assets/vintage/ticket-learning.svg" width="100%" alt="Now learning: Neural Networks: Zero to Hero by Andrej Karpathy" /></a>
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-journey.svg" width="100%" alt="§ V — Professional Journey" />
 
 <a href="https://goodtechies.com"><img src="assets/vintage/card-goodtechies.svg" width="100%" alt="GoodTechies (current): built a custom ERP with messenger, meetings, voice messages, attendance, clients, projects and tasks, plus a PDF generator" /></a>
 
-<br/><br/>
+<a href="https://sovware.com"><img src="assets/vintage/card-sovware.svg" width="100%" alt="Sovware: 900+ website issues fixed; Directory Website Expert, WooCommerce Website Expert, Shopify Expert, Laravel Site Expert" /></a>
 
-<a href="https://sovware.com"><img src="assets/vintage/card-sovware.svg" width="100%" alt="Sovware: 900+ website issues fixed, WPML multilingual sites, Directorist plugin, extensions and themes" /></a>
-
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-stack.svg" width="100%" alt="§ VI — Tech Stack" />
 
@@ -62,6 +60,10 @@
 <img src="https://img.shields.io/badge/WordPress-2A1F14?style=for-the-badge&logo=wordpress&logoColor=D9B77E" alt="WordPress" />
 <img src="https://img.shields.io/badge/WPML%20Multilingual-2A1F14?style=for-the-badge&logo=googletranslate&logoColor=D9B77E" alt="WPML Multilingual" />
 <img src="https://img.shields.io/badge/Directorist-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCAxMmg0bS00LTRoNG0wIDEzdi0zYTIgMiAwIDAgMC00IDB2MyIvPjxwYXRoIGQ9Ik02IDEwSDRhMiAyIDAgMCAwLTIgMnY3YTIgMiAwIDAgMCAyIDJoMTZhMiAyIDAgMCAwIDItMlY5YTIgMiAwIDAgMC0yLTJoLTIiLz48cGF0aCBkPSJNNiAyMVY1YTIgMiAwIDAgMSAyLTJoOGEyIDIgMCAwIDEgMiAydjE2Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="Directorist" />
+<img src="https://img.shields.io/badge/Directory%20Websites-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCA4YzAgMy42MTMtMy44NjkgNy40MjktNS4zOTMgOC43OTVhMSAxIDAgMCAxLTEuMjE0IDBDOS44NyAxNS40MjkgNiAxMS42MTMgNiA4YTYgNiAwIDAgMSAxMiAwIi8%2BPHBhdGggZD0iTTQuNDc0IDE1aC0uMTk3YTEgMSAwIDAgMC0uOTY5Ljc1M2wtMS4wOTcgNC4zNWExLjUgMS41IDAgMCAwIDEuNDQ0IDEuODk4TDIwLjM0NCAyMmExLjUgMS41IDAgMCAwIDEuNDQ2LTEuODk3bC0xLjA5OC00LjM1YTEgMSAwIDAgMC0uOTY5LS43NTNoLS4xOTciLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjIiLz48L2c%2BPC9zdmc%2B" alt="Directory Websites" />
+<img src="https://img.shields.io/badge/WooCommerce-2A1F14?style=for-the-badge&logo=woocommerce&logoColor=D9B77E" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Shopify-2A1F14?style=for-the-badge&logo=shopify&logoColor=D9B77E" alt="Shopify" />
+<img src="https://img.shields.io/badge/Laravel-2A1F14?style=for-the-badge&logo=laravel&logoColor=D9B77E" alt="Laravel" />
 <img src="https://img.shields.io/badge/PDF%20Generator-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik02IDIyYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDhhMi40IDIuNCAwIDAgMSAxLjcwNC43MDZsMy41ODggMy41ODhBMi40IDIuNCAwIDAgMSAyMCA4djEyYTIgMiAwIDAgMS0yIDJ6Ii8%2BPHBhdGggZD0iTTE0IDJ2NWExIDEgMCAwIDAgMSAxaDVNMTAgOUg4bTggNEg4bTggNEg4Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="PDF Generator" />
 <img src="https://img.shields.io/badge/WordPress%20Debugger-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAyMHYtOW0yLTRhNCA0IDAgMCAxIDQgNHYzYTYgNiAwIDAgMS0xMiAwdi0zYTQgNCAwIDAgMSA0LTR6bS4xMi0zLjEyTDE2IDIiLz48cGF0aCBkPSJNMjEgMjFhNCA0IDAgMCAwLTMuODEtNE0yMSA1YTQgNCAwIDAgMS0zLjU1IDMuOTdNMjIgMTNoLTRNMyAyMWE0IDQgMCAwIDEgMy44MS00TTMgNWE0IDQgMCAwIDAgMy41NSAzLjk3TTYgMTNIMk04IDJsMS44OCAxLjg4TTkgNy4xM1Y2YTMgMyAwIDEgMSA2IDB2MS4xMyIvPjwvZz48L3N2Zz4%3D" alt="WordPress Debugger" />
 <img src="https://img.shields.io/badge/Elementor-2A1F14?style=for-the-badge&logo=elementor&logoColor=D9B77E" alt="Elementor" />
@@ -77,7 +79,7 @@
 <img src="https://img.shields.io/badge/MCP%20Server-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMnYtNW0zLTlWMm0yIDZhMSAxIDAgMCAxIDEgMXY0YTQgNCAwIDAgMS00IDRoLTRhNCA0IDAgMCAxLTQtNFY5YTEgMSAwIDAgMSAxLTF6TTkgOFYyIi8%2BPC9zdmc%2B" alt="MCP Server" />
 <img src="https://img.shields.io/badge/VPS%20Server%20Expert-2A1F14?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q5Qjc3RSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xMC44NTIgMTQuNzcybC0uMzgzLjkyM20yLjY3OS0uOTIzYTMgMyAwIDEgMC0yLjI5Ni01LjU0NGwtLjM4My0uOTIzbTIuNjc5LjkyM2wuMzgzLS45MjMiLz48cGF0aCBkPSJtMTMuNTMgMTUuNjk2bC0uMzgyLS45MjRhMyAzIDAgMSAxLTIuMjk2LTUuNTQ0bTMuOTIgMS42MjRsLjkyMy0uMzgzbS0uOTIzIDIuNjc5bC45MjMuMzgzIi8%2BPHBhdGggZD0iTTQuNSAxMEg0YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ2NGEyIDIgMCAwIDEtMiAyaC0uNW0tMTUgNEg0YTIgMiAwIDAgMC0yIDJ2NGEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJ2LTRhMiAyIDAgMCAwLTItMmgtLjVNNiAxOGguMDFNNiA2aC4wMW0zLjIxOCA0Ljg1MmwtLjkyMy0uMzgzbS45MjMgMi42NzlsLS45MjMuMzgzIi8%2BPC9nPjwvc3ZnPg%3D%3D" alt="VPS Server Expert" />
 
-<br/><br/><br/>
+<br/>
 
 <img src="assets/vintage/banner-tech.svg" width="100%" alt="§ VII — Technologies Used" />
 
@@ -87,7 +89,7 @@
 
 <div align="center">
 
-<img src="assets/vintage/ledger-tech.svg" width="100%" alt="The inventory: 29 technologies, from PHP and LLM engineering to ERP, Android, WPML, Directorist and VPS servers" />
+<img src="assets/vintage/ledger-tech.svg" width="100%" alt="The inventory: 33 technologies, from PHP and LLM engineering to ERP, Android, WPML, Directorist and VPS servers" />
 
 </div>
 
@@ -108,6 +110,10 @@
 - **WordPress** - Content management system
 - **WPML** - Multilingual WordPress sites, translation setup and compatibility fixes
 - **Directorist** - Directory plugin development, including its extensions and themes
+- **Directory website expert** - Listing and directory sites with search, maps and submissions
+- **WooCommerce website expert** - Online stores: checkout, payments, products and orders
+- **Shopify expert** - Shopify stores: theme customization, apps and setup
+- **Laravel site expert** - Custom Laravel web apps, backends, APIs and admin panels
 - **PDF generator** - Custom PDF generation tooling
 - **WordPress debugger** - Troubleshooting WordPress issues and tracking down plugin or theme conflicts
 - **Elementor** - Page builder for WordPress
@@ -128,7 +134,7 @@
 
 </details>
 
-<br/><br/><br/>
+<br/>
 
 <div align="center">
 
@@ -160,7 +166,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-<br/><br/><br/>
+<br/>
 
 <div align="center">
 
